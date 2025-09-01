@@ -50,6 +50,9 @@ O frontend foi desenvolvido com Angular 19, TypeScript, Node.js e npm.
 Certifique-se de ter o Node.js e o npm instalados.
 
 Navegue até a pasta do frontend no seu terminal e instale as dependências:
+```bash
+cd frontend
+```
 
 ```bash
 npm install
