@@ -1,0 +1,9 @@
+<div class="theme-toggle">
+  <button type="button" (click)="toggleTheme()">
+    {{ isDark ? '☼' : '◑' }}
+  </button>
+</div>
+
+<app-task-list></app-task-list>
+<router-outlet></router-outlet>
+<app-footer></app-footer>
